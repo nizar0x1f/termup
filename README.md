@@ -6,6 +6,10 @@ A modern, fast, and beautiful command-line utility for S3-compatible filesharing
 
 ![TermUp Usage Demo](images/usage.gif)
 
+*See TermUp in action: real-time progress tracking, clipboard paste support, and beautiful terminal UI*
+
+## 📊 Status
+
 [![Release](https://img.shields.io/github/v/release/nizar0x1f/termup)](https://github.com/nizar0x1f/termup/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nizar0x1f/termup)](https://goreportcard.com/report/github.com/nizar0x1f/termup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +17,20 @@ A modern, fast, and beautiful command-line utility for S3-compatible filesharing
 ![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
-## Features
+## 📋 Table of Contents
+
+- [🎬 Demo](#-demo)
+- [✨ Features](#-features)
+- [🚀 Installation](#-installation)
+- [🏁 Quick Start](#-quick-start)
+- [🔧 Configuration](#-configuration)
+- [💡 Usage Examples](#-usage-examples)
+- [🌐 Supported Storage Providers](#-supported-storage-providers)
+- [🛠 Development](#-development)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+
+## ✨ Features
 
 - **S3 Compatible** - Works with any S3-compatible storage (R2, AWS S3, MinIO, DigitalOcean Spaces, etc.)
 - **Beautiful Terminal UI** - Powered by Charm's Bubble Tea framework
@@ -54,7 +71,7 @@ TermUp works with any S3-compatible storage service:
 - **Linode Object Storage** - Simple, scalable storage
 - **Any S3-compatible service** - If it speaks S3 API, it works!
 
-## Installation
+## 🚀 Installation
 
 ### Using Go Install (Recommended)
 
@@ -76,7 +93,7 @@ go install -v ./cmd/upl
 
 Download the latest binary from the [releases page](https://github.com/nizar0x1f/termup/releases).
 
-## Quick Start
+## 🏁 Quick Start
 
 ### First Time Setup
 
