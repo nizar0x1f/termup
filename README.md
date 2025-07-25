@@ -2,12 +2,6 @@
 
 A modern, fast, and beautiful command-line utility for S3-compatible filesharing with real-time progress tracking and a stunning terminal UI. Upload files to any S3-compatible storage service including Cloudflare R2, AWS S3, MinIO, and more.
 
-## 🎬 Demo
-
-![TermUp Usage Demo](images/usage.gif)
-
-*See TermUp in action: real-time progress tracking, clipboard paste support, and beautiful terminal UI*
-
 ## 📊 Status
 
 [![Release](https://img.shields.io/github/v/release/nizar0x1f/termup)](https://github.com/nizar0x1f/termup/releases)
@@ -42,7 +36,11 @@ A modern, fast, and beautiful command-line utility for S3-compatible filesharing
 - **Easy Reconfiguration** - Simple credential management
 - **Multiple Providers** - Switch between different S3 providers easily
 
-## Demo
+## 🎬 Demo
+
+![TermUp Usage Demo](images/usage.gif)
+
+*See TermUp in action: real-time progress tracking, clipboard paste support, and beautiful terminal UI*
 
 ```
 S3 Compatible File Upload
