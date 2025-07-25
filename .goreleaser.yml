@@ -7,7 +7,7 @@ before:
 
 builds:
   - id: upl
-    main: ./cmd/upl
+    main: ./cmd/upl/main.go
     binary: upl
     env:
       - CGO_ENABLED=0
