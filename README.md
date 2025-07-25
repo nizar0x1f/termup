@@ -2,8 +2,11 @@
 
 A modern, fast, and beautiful command-line utility for S3-compatible filesharing with real-time progress tracking and a stunning terminal UI. Upload files to any S3-compatible storage service including Cloudflare R2, AWS S3, MinIO, and more.
 
-![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat&logo=go)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Release](https://img.shields.io/github/v/release/nizar0x1f/termup)](https://github.com/nizar0x1f/termup/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nizar0x1f/termup)](https://goreportcard.com/report/github.com/nizar0x1f/termup)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/nizar0x1f/termup/workflows/CI/badge.svg)](https://github.com/nizar0x1f/termup/actions)
+![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
 ## Features
